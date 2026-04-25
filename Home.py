@@ -24,9 +24,9 @@ with col1:
     st.image(image, use_container_width=True)
 
 with col2:
-    st.subheader("Martin R. Monterola 👋")
+    st.subheader("Roble M. Monterola 👋")
     st.write("""
-Hello! I am **Martin R. Monterola**, a Computer Science student.
+Hello! I am **Roble M. Monterola**, a Computer Science student.
 
 I enjoy learning programming and building simple applications.
 I like practicing coding and learning new things.
@@ -69,4 +69,4 @@ with col3:
 st.divider()
 
 
-st.caption("© 2026 Martin Roble | Built with Streamlit")
+
