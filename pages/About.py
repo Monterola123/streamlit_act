@@ -3,7 +3,7 @@ from PIL import Image
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
-    page_title="Martin Roble Portfolio",
+    page_title="Roble M. Monterola Portfolio",
     page_icon="👨‍💻",
     layout="wide"
 )
@@ -23,7 +23,7 @@ with col1:
     st.image(image, use_container_width=True)
 
 with col2:
-    st.subheader("Hi! I'm Martin R. Monterola 👋")
+    st.subheader("Hi! I'm Roble M. Monterola 👋")
 
     st.write("""
 I am a Computer Science student who enjoys learning programming 
