@@ -3,7 +3,7 @@ from PIL import Image
 
 
 st.set_page_config(
-    page_title="Martin Roble Portfolio",
+    page_title="Roble M. Monterola Portfolio",
     page_icon="💻",
     layout="wide"
 )
